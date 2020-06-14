@@ -1,0 +1,16 @@
+{
+    "name": "the-scrapbook/theme-plugin",
+    "description": "Base Plugin for NatGeo-style blog",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Colette",
+            "email": "colettelfleury@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"TheScrapbook\\": "includes/"}
+    }
+}
